@@ -5,6 +5,8 @@ import com.softabar.lipsum.LoremIpsum4J;
 public class StringDummyGenerator {
 	/**
 	 * Metodo para generar un dato aleatorio. 
+	 * 
+	 * Otro comentario.
 	 * @param size
 	 * @return
 	 */
