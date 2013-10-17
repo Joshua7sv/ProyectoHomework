@@ -3,6 +3,10 @@ package com.creativa.dummy.data.generator;
 import com.softabar.lipsum.LoremIpsum4J;
 
 public class StringDummyGenerator {
+	/**
+	 * @param size
+	 * @return
+	 */
 	public static String getWords(int size) {
 		String s = null;
 		LoremIpsum4J loremIpsum = new LoremIpsum4J();
