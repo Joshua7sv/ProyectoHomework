@@ -4,7 +4,7 @@ import com.softabar.lipsum.LoremIpsum4J;
 
 public class StringDummyGenerator {
 	/**
-	 * Metodo para generar un dato aleatorio.
+	 * Metodo para generar un dato aleatorio. 
 	 * @param size
 	 * @return
 	 */
