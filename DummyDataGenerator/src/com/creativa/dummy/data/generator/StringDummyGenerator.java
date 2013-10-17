@@ -18,6 +18,7 @@ public class StringDummyGenerator {
 		for (String string : paragraphs) {
 			s += string;
 		}
+		// esto es un comentario de prueba
 		return s.trim();
 	}
 }
