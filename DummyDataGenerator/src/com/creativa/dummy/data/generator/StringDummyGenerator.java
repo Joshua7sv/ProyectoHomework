@@ -1,5 +1,5 @@
 package com.creativa.dummy.data.generator;
-
+//comentario de prueba
 import com.softabar.lipsum.LoremIpsum4J;
 
 public class StringDummyGenerator {
